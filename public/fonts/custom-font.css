@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'Richgold';
+    src: url('/fonts/Richgold-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Richgold';
+    src: url('/fonts/Richgold-Regular Italic.woff2') format('woff2');
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  @font-face {
+    font-family: 'Richgold';
+    src: url('/fonts/Richgold-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Richgold';
+    src: url('/fonts/Richgold-Medium Italic.woff2') format('woff2');
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  @font-face {
+    font-family: 'Richgold';
+    src: url('/fonts/Richgold-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Richgold';
+    src: url('/fonts/Richgold-Bold Italic.woff2') format('woff2');
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  @font-face {
+    font-family: 'Richgold';
+    src: url('/fonts/Richgold-Black.woff2') format('woff2');
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Richgold';
+    src: url('/fonts/Richgold-Black Italic.woff2') format('woff2');
+    font-weight: 900;
+    font-style: italic;
+  }
+  
